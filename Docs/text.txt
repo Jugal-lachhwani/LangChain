@@ -1,0 +1,3 @@
+Thanks for the clarification. If you're clicking “Get Offer” on the Gemini Student Page and it's directly taking you to a ₹1,950 payment page instead of asking for student verification via SheerID, it means one of two things is likely happening:
+
+If you're logged into a regular @gmail.com account that was already used before (or has no connection to SheerID), Google may skip the verification page and take you to payment directly.
